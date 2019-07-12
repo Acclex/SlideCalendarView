@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--自定义滑动日历-->
+<declare-styleable name="CalendarView">
+    <attr name="showWeek" format="boolean" />
+    <attr name="startWithSunday" format="boolean" />
+    <attr name="maxMonth" format="integer" />
+    <attr name="beforeMonth" format="integer" />
+</declare-styleable>
+</resources>
